@@ -1,0 +1,4 @@
+    During the map, the node and weight variables are defined at first, and then
+the needed node and weight pairs are obtained through calling some functions in StringTokenizer.
+Then set the key-value pair finally. During the reduce, the sum results are obtained 
+and the result that equals zero is filtered . 

@@ -1,0 +1,3 @@
+   The split and map functions are used to obtain the (node, weight) pair. Then the reduceByKey 
+function is used during the reduce procedure to obtain the sum results. Also the result that 
+equals to zero is filtered. 
